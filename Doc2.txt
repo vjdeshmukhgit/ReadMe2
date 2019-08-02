@@ -2,3 +2,4 @@ Another text.
 Added for info
 Added 3rd line
 Testing Pull Request
+Adding another test 100
